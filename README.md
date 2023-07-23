@@ -2,7 +2,7 @@
 
 The Netflix-clone is build using HTML,CSS. Using HTML, we build the basic structure of our website and for giving a dynamic look we use CSS. This makes our website 
 more attractive for user.
-The various features used in this project are class,id,@media etc which beautify our website na d give a advance look.
+The various features used in this project are class,id,@media etc which beautify our website  and give a advance look.
 
 #  Images
 
